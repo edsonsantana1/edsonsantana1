@@ -1,6 +1,6 @@
 ## Óla eu sou Edson Santana
 
-💻- Estudante de Programação
+💻- Graduação - ADS Senac PE 1/6
 
 😉- Pronouns: ele/dele
 
