@@ -4,6 +4,10 @@
 
 😉- Pronouns: ele/dele
 
+<div> 
+  <a href-"https://github.com/edsonsantana1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonsantana1&theme=dark&show_icons=true)
+
 ##
 
 My Skills
