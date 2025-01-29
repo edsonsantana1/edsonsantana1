@@ -1,6 +1,6 @@
 ## Óla eu sou Edson Santana
 
-💻- Graduação - ADS Senac PE 2/6
+💻- Graduação - ADS Senac PE 3/6
 
 😉- Pronouns: ele/dele
 
